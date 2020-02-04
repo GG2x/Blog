@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/blogstartreact/static/css/main.07de5f80.chunk.css",
+    "main.js": "/blogstartreact/static/js/main.ec53545b.chunk.js",
+    "main.js.map": "/blogstartreact/static/js/main.ec53545b.chunk.js.map",
+    "runtime-main.js": "/blogstartreact/static/js/runtime-main.c6ce2b44.js",
+    "runtime-main.js.map": "/blogstartreact/static/js/runtime-main.c6ce2b44.js.map",
+    "static/css/2.17e5ed98.chunk.css": "/blogstartreact/static/css/2.17e5ed98.chunk.css",
+    "static/js/2.75624e1b.chunk.js": "/blogstartreact/static/js/2.75624e1b.chunk.js",
+    "static/js/2.75624e1b.chunk.js.map": "/blogstartreact/static/js/2.75624e1b.chunk.js.map",
+    "index.html": "/blogstartreact/index.html",
+    "precache-manifest.f7213c3b8731ca820241def31062a218.js": "/blogstartreact/precache-manifest.f7213c3b8731ca820241def31062a218.js",
+    "service-worker.js": "/blogstartreact/service-worker.js",
+    "static/css/2.17e5ed98.chunk.css.map": "/blogstartreact/static/css/2.17e5ed98.chunk.css.map",
+    "static/css/main.07de5f80.chunk.css.map": "/blogstartreact/static/css/main.07de5f80.chunk.css.map",
+    "static/js/2.75624e1b.chunk.js.LICENSE": "/blogstartreact/static/js/2.75624e1b.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c6ce2b44.js",
+    "static/css/2.17e5ed98.chunk.css",
+    "static/js/2.75624e1b.chunk.js",
+    "static/css/main.07de5f80.chunk.css",
+    "static/js/main.ec53545b.chunk.js"
+  ]
+}
